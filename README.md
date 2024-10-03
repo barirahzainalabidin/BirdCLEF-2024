@@ -5,11 +5,11 @@ This asr projects bird clef 2024 used model from - https://www.kaggle.com/models
 
 # Pipeline :
 
-1.  Create Audio Recognition Speech
+1. Create Audio Recognition Speech
 
 2. Train Sound Classification With YMNET Model Google for unlabeled & train audio
 
-3.  Save csv 
+3. Save csv 
 
 4. Train with XGBoost Model & Calculate Metric ROC AUC
 
