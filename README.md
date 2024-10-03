@@ -21,5 +21,8 @@ Audio Sound Recognition - https://www.kaggle.com/code/barirahzainal/bird-clef-as
 
 Train with XGBoost Model & Calculate Metric ROC AUC -  https://www.kaggle.com/code/barirahzainal/bird-clef-xgboost
 
+Train with Neural Network  - https://www.kaggle.com/code/barirahzainal/bird-clef-2024-train-unlabeled-neural-network
+
+
 
 # Metric - 0.5 ROC AUC
